@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "You already have an account ?"; ObjectID = "1yj-wn-mNO"; */
+"1yj-wn-mNO.text" = "You already have an account ?";
+
+/* Class = "UILabel"; text = "تطبيق سوشيال"; ObjectID = "2e7-KI-M6x"; */
+"2e7-KI-M6x.text" = "Social app";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "4gf-RN-TLE"; */
+"4gf-RN-TLE.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Welcome, follow up to create a new account"; ObjectID = "51y-zD-AXe"; */
+"51y-zD-AXe.text" = "Welcome, follow up to create a new account";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "5b1-di-Cbv"; */
+"5b1-di-Cbv.text" = "Error!";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "9eS-J3-fn6"; */
+"9eS-J3-fn6.text" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "DSZ-Se-exV"; */
+"DSZ-Se-exV.text" = "Create New Account";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "F9j-4N-Jdz"; */
+"F9j-4N-Jdz.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "LGv-Ea-g0v"; */
+"LGv-Ea-g0v.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Welcome, please login to continue"; ObjectID = "RBi-Kh-IdD"; */
+"RBi-Kh-IdD.text" = "Welcome, please login to continue";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "RyW-hb-S6w"; */
+"RyW-hb-S6w.normalTitle" = "Send";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "XqR-Es-jhG"; */
+"XqR-Es-jhG.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "dU3-MU-JlE"; */
+"dU3-MU-JlE.placeholder" = "Repeat Password";
+
+/* Class = "UILabel"; text = "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n"; ObjectID = "eqf-uz-OhM"; */
+"eqf-uz-OhM.text" = "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "ghe-6A-Xc4"; */
+"ghe-6A-Xc4.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "hRh-Hc-zRY"; */
+"hRh-Hc-zRY.text" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "i7D-n6-mDz"; */
+"i7D-n6-mDz.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Welcome back"; ObjectID = "kLH-lR-xXe"; */
+"kLH-lR-xXe.text" = "Welcome back";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "lGG-KN-pgf"; */
+"lGG-KN-pgf.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mFr-Gh-ogM"; */
+"mFr-Gh-ogM.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "I agree to the terms and conditions"; ObjectID = "mcd-Ql-Dcn"; */
+"mcd-Ql-Dcn.text" = "I agree to the terms and conditions";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "sBT-Ll-7lm"; */
+"sBT-Ll-7lm.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "sf3-x5-C1Z"; */
+"sf3-x5-C1Z.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Label LabelLabelLabel"; ObjectID = "wD4-wT-5Nj"; */
+"wD4-wT-5Nj.text" = "Label LabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "ysf-06-QTB"; */
+"ysf-06-QTB.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "تطبيق سوشيالتطبيق سوشيالتطبيق سوشيالتطبيق سوشيال"; ObjectID = "zCS-jJ-0cR"; */
+"zCS-jJ-0cR.text" = "تطبيق سوشيالتطبيق سوشيالتطبيق سوشيالتطبيق سوشيال";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "zG3-tD-jwz"; */
+"zG3-tD-jwz.text" = "Gender";

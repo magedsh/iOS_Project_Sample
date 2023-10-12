@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  LaowaiQuestions
+
+  Created by Macbook on 4/10/21.
+  Copyright © 2021 Maged Shaheen. All rights reserved.
+*/
+"lang" = "en";
+
+"Error" = "Error" ;
+
+"UnFollow" = "UnFollow";
+
+"Follow" = "Follow";
+
+ "All Users" = "All Users";
+
+ "Abroad" = "Abroad";
+
+
+"China" = "China";
+
+" ...read more" = " ...read more";
+
+"Internet Connection Failed" = "Internet Connection Failed";
+
+"No Internet Connection!" = "No internet connection";
+
+"Supply" = "Supply";
+
+"Demand" =  "Demand";
+
+"Translate" = "Translate";
+
+"make post on Loawai Panda with text:" = "make post on Loawai Panda with text:";
+
+"Comment" = "Comment";
+
+"Follow up" = "Follow up";
+
+"Share" = "Share";
+
+"Social" = "Social";
+
+"Messeges" = "Messeges";
+
+"Me" = "Me";
+
+"Unsave" = "Unsave";
+
+"Save" = "Save";
+
+"Messege" = "Messege";
+
+"Done" = "Done";
+
+"Ask" = "Ask";
+
+"Service" = "Service";
+
+"General" = "General";
+
+"All Posts" = "All Posts";
+"In China" ="In China";
+
+"All China" = "All China";
+
+"Select State" = "Select State";
+
+"Sharing Information" = "Sharing Information";
+
+"Useful" = "Useful";
+
+"User Id saved to your clipboard" = "User Id saved to your clipboard";
+
+"No posts for now" = "No posts for now";
+
+"Sorry , This account is private!" = "Sorry , This account is private!";
+
+"Back" = "Back";
+
+"Save" = "Save";
+
+"Search post , user , user id..." = "Search post , user , user id...";
+
+"Changing language!" = "Changing language!";
+"this app will restart to change application language" = "this app will restart to change application language";
+"Ok" = "Ok";
+"No" = "No";
+
+"Change Language" = "Change Language";
+
+"   Terms and Condetions   " = "   Terms and Condetions   ";
+"   Contact Us   " = "   Contact Us   ";
+
+"Topics I Follow / Saved" = "Topics I Follow / Saved";
+
+"Following" = "Following";
+
+"Privacy Setting"= "Privacy Setting";
+
+"Setting" =  "Setting";
+
+"About laowai panda" = "About laowai panda";
+
+"logout" = "logout";
+"My Topics" = "My Topics";
+
+"Profile" = "Profile";
+
+"Next" = "Next";
+"Title" = "Title";
+
+"write somthing.." = "write somthing..";
+
+"Allowed 9 Photos" = "Allowed 9 Photos";
+
+"Share for" = "Share for";
+
+"Select City" = "Select City";
+
+"Post" = "Post";
+
+"Post text saved to your clipboard" = "Post text saved to your clipboard";
+
+"Copy" = "Copy";
+
+"   Feedback   " = "   Feedback   ";
+
+"Response" = "Response";
+
+"Friends" = "Friends";
+
+"Add Friend" = "Add Friend";
+
+"UnFollow question" = "UnFollow question";
+
+"Follow question" = "Follow question";

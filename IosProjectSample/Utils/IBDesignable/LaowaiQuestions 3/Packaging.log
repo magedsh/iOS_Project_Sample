@@ -1,0 +1,1300 @@
+2021-05-27 18:58:40 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fcfb0a22890; archive(resolved)='<IDEArchive: 0x7fcf7dee43e0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fcfb0a22890; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fcfb4c9dba0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfcc2d2240; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcf986df220; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfb4c90ad0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfde3fefb0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfb0a4ddd0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfb0a497e0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfd46531c0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd02c0ae3f0; teamID='X2PL288BYD', teamName='Maro Global Information Technology Co., Limited', teamType='Company', username='mg-ceo@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcfcc245a10; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='(null)'>
+	<IDEDistributionContext: 0x7fcfb0ae8590; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='(null)'>
+	<IDEDistributionContext: 0x7fcfb0a9b8b0; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='(null)'>
+	<IDEDistributionContext: 0x7fcfb5ccc170; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='<IDEDistributionMethodiOSAdHoc: 0x7fcfde5d6050>', team='(null)'>
+	<IDEDistributionContext: 0x7fcf989b4080; archive = '<IDEArchive: 0x7fcf7dee43e0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fcfb0a22890>
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionCopyItemStep
+2021-05-27 18:58:40 +0000  Running /usr/bin/ditto '-V' '/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app'
+2021-05-27 18:58:40 +0000  >>> Copying /Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app 
+2021-05-27 18:58:40 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  55419 bytes for ./_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./CategorySecondCell.nib ... 
+2021-05-27 18:58:40 +0000  17372 bytes for ./CategorySecondCell.nib
+copying file ./CreatPostCell.nib ... 
+2021-05-27 18:58:40 +0000  16844 bytes for ./CreatPostCell.nib
+2021-05-27 18:58:40 +0000  copying file ./ar.lproj/LaunchScreen.strings ... 
+2021-05-27 18:58:40 +0000  1 bytes for ./ar.lproj/LaunchScreen.strings
+copying file ./ar.lproj/Localizable.strings ... 
+2021-05-27 18:58:40 +0000  63 bytes for ./ar.lproj/Localizable.strings
+2021-05-27 18:58:40 +0000  copying file ./ar.lproj/Login.strings ... 
+2021-05-27 18:58:40 +0000  5143 bytes for ./ar.lproj/Login.strings
+2021-05-27 18:58:40 +0000  copying file ./zh-Hans.lproj/LaunchScreen.strings ... 
+2021-05-27 18:58:40 +0000  1 bytes for ./zh-Hans.lproj/LaunchScreen.strings
+2021-05-27 18:58:40 +0000  copying file ./zh-Hans.lproj/Localizable.strings ... 
+2021-05-27 18:58:40 +0000  64 bytes for ./zh-Hans.lproj/Localizable.strings
+copying file ./zh-Hans.lproj/Login.strings ... 
+2021-05-27 18:58:40 +0000  4879 bytes for ./zh-Hans.lproj/Login.strings
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/UIViewController-y6x-3c-cGm.nib ... 
+2021-05-27 18:58:40 +0000  1074 bytes for ./Profile.storyboardc/UIViewController-y6x-3c-cGm.nib
+copying file ./Profile.storyboardc/Q3Z-nz-zv6-view-hZ6-KP-zxg.nib ... 
+2021-05-27 18:58:40 +0000  6065 bytes for ./Profile.storyboardc/Q3Z-nz-zv6-view-hZ6-KP-zxg.nib
+copying file ./Profile.storyboardc/y6x-3c-cGm-view-vqN-nz-tuB.nib ... 
+2021-05-27 18:58:40 +0000  5468 bytes for ./Profile.storyboardc/y6x-3c-cGm-view-vqN-nz-tuB.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/EditProfileViewController.nib ... 
+2021-05-27 18:58:40 +0000  2024 bytes for ./Profile.storyboardc/EditProfileViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/MyFollowersViewController.nib ... 
+2021-05-27 18:58:40 +0000  1631 bytes for ./Profile.storyboardc/MyFollowersViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/Kwm-a0-m0j-view-Oap-UF-M0H.nib ... 
+2021-05-27 18:58:40 +0000  4541 bytes for ./Profile.storyboardc/Kwm-a0-m0j-view-Oap-UF-M0H.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/H4t-6r-7PY-view-Qyt-bz-z2E.nib ... 
+2021-05-27 18:58:40 +0000  5873 bytes for ./Profile.storyboardc/H4t-6r-7PY-view-Qyt-bz-z2E.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/SavedPostVc.nib ... 
+2021-05-27 18:58:40 +0000  1602 bytes for ./Profile.storyboardc/SavedPostVc.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/8LV-3z-LA7-view-Ohn-lu-DKo.nib ... 
+2021-05-27 18:58:40 +0000  7731 bytes for ./Profile.storyboardc/8LV-3z-LA7-view-Ohn-lu-DKo.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/raM-gS-4xP-view-ydv-Jd-28z.nib ... 
+2021-05-27 18:58:40 +0000  11361 bytes for ./Profile.storyboardc/raM-gS-4xP-view-ydv-Jd-28z.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/ChangePasswordViewController.nib ... 
+2021-05-27 18:58:40 +0000  1055 bytes for ./Profile.storyboardc/ChangePasswordViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/N4d-h2-nko-view-IjK-ea-3dh.nib ... 
+2021-05-27 18:58:40 +0000  7612 bytes for ./Profile.storyboardc/N4d-h2-nko-view-IjK-ea-3dh.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/HUd-Jq-pj5-view-Lcx-K2-ICK.nib ... 
+2021-05-27 18:58:40 +0000  7110 bytes for ./Profile.storyboardc/HUd-Jq-pj5-view-Lcx-K2-ICK.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/Info.plist ... 
+2021-05-27 18:58:40 +0000  558 bytes for ./Profile.storyboardc/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/SettingVC.nib ... 
+2021-05-27 18:58:40 +0000  1597 bytes for ./Profile.storyboardc/SettingVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/OtherProfileVC.nib ... 
+2021-05-27 18:58:40 +0000  1608 bytes for ./Profile.storyboardc/OtherProfileVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/ChangeLanguageVC.nib ... 
+2021-05-27 18:58:40 +0000  1612 bytes for ./Profile.storyboardc/ChangeLanguageVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/MakeReportPostVc.nib ... 
+2021-05-27 18:58:40 +0000  1109 bytes for ./Profile.storyboardc/MakeReportPostVc.nib
+2021-05-27 18:58:40 +0000  copying file ./Profile.storyboardc/mY6-u7-kQx-view-l1a-ZW-ziQ.nib ... 
+2021-05-27 18:58:40 +0000  3455 bytes for ./Profile.storyboardc/mY6-u7-kQx-view-l1a-ZW-ziQ.nib
+copying file ./BlockedUserTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4300 bytes for ./BlockedUserTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./en.lproj/Localizable.strings ... 
+2021-05-27 18:58:40 +0000  63 bytes for ./en.lproj/Localizable.strings
+2021-05-27 18:58:40 +0000  copying file ./en.lproj/Login.strings ... 
+2021-05-27 18:58:40 +0000  4879 bytes for ./en.lproj/Login.strings
+2021-05-27 18:58:40 +0000  copying file ./LaowaiQuestions ... 
+2021-05-27 18:58:40 +0000  12337248 bytes for ./LaowaiQuestions
+2021-05-27 18:58:40 +0000  copying file ./ImageCollectionViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4433 bytes for ./ImageCollectionViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./CommentOnlyCell.nib ... 
+2021-05-27 18:58:40 +0000  8956 bytes for ./CommentOnlyCell.nib
+2021-05-27 18:58:40 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-05-27 18:58:40 +0000  11611 bytes for ./AppIcon60x60@2x.png
+copying file ./MeHeader.nib ... 
+2021-05-27 18:58:40 +0000  7904 bytes for ./MeHeader.nib
+copying file ./MorePostCLickedCellTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4115 bytes for ./MorePostCLickedCellTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./ProfileHeaderCell.nib ... 
+2021-05-27 18:58:40 +0000  7033 bytes for ./ProfileHeaderCell.nib
+copying file ./ChatAllUserCell.nib ... 
+2021-05-27 18:58:40 +0000  5724 bytes for ./ChatAllUserCell.nib
+2021-05-27 18:58:40 +0000  copying file ./MoreCommentCLickedCellTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4115 bytes for ./MoreCommentCLickedCellTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./ProfileCell.nib ... 
+2021-05-27 18:58:40 +0000  4932 bytes for ./ProfileCell.nib
+copying file ./AddPostCatHeaderCell.nib ... 
+2021-05-27 18:58:40 +0000  4952 bytes for ./AddPostCatHeaderCell.nib
+2021-05-27 18:58:40 +0000  copying file ./SingleChatMeCell.nib ... 
+2021-05-27 18:58:40 +0000  5506 bytes for ./SingleChatMeCell.nib
+2021-05-27 18:58:40 +0000  copying file ./UserSearchTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4132 bytes for ./UserSearchTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./HomeHeaderCellTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4529 bytes for ./HomeHeaderCellTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-05-27 18:58:40 +0000  2468 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-05-27 18:58:40 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-05-27 18:58:40 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/UIViewController-fcA-bE-Ice.nib ... 
+2021-05-27 18:58:40 +0000  910 bytes for ./Base.lproj/Login.storyboardc/UIViewController-fcA-bE-Ice.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/TermsAndCondViewController.nib ... 
+2021-05-27 18:58:40 +0000  957 bytes for ./Base.lproj/Login.storyboardc/TermsAndCondViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/fcA-bE-Ice-view-whs-jR-MuY.nib ... 
+2021-05-27 18:58:40 +0000  6308 bytes for ./Base.lproj/Login.storyboardc/fcA-bE-Ice-view-whs-jR-MuY.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/MLj-ju-QEq-view-Frl-Kk-Xx3.nib ... 
+2021-05-27 18:58:40 +0000  7818 bytes for ./Base.lproj/Login.storyboardc/MLj-ju-QEq-view-Frl-Kk-Xx3.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/kIO-Oy-JJ6-view-ZWX-0K-1DS.nib ... 
+2021-05-27 18:58:40 +0000  6274 bytes for ./Base.lproj/Login.storyboardc/kIO-Oy-JJ6-view-ZWX-0K-1DS.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/SplashScreenViewController.nib ... 
+2021-05-27 18:58:40 +0000  1051 bytes for ./Base.lproj/Login.storyboardc/SplashScreenViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/aRJ-ig-OOI-view-h0d-6i-hPw.nib ... 
+2021-05-27 18:58:40 +0000  13911 bytes for ./Base.lproj/Login.storyboardc/aRJ-ig-OOI-view-h0d-6i-hPw.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/k27-wM-m5U-view-xVR-03-3ry.nib ... 
+2021-05-27 18:58:40 +0000  3137 bytes for ./Base.lproj/Login.storyboardc/k27-wM-m5U-view-xVR-03-3ry.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/UIViewController-aRJ-ig-OOI.nib ... 
+2021-05-27 18:58:40 +0000  1394 bytes for ./Base.lproj/Login.storyboardc/UIViewController-aRJ-ig-OOI.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/ErrorViewController.nib ... 
+2021-05-27 18:58:40 +0000  1115 bytes for ./Base.lproj/Login.storyboardc/ErrorViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/JJJ-r4-4ZS-view-e5E-Wc-ci5.nib ... 
+2021-05-27 18:58:40 +0000  5223 bytes for ./Base.lproj/Login.storyboardc/JJJ-r4-4ZS-view-e5E-Wc-ci5.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/NavigationController.nib ... 
+2021-05-27 18:58:40 +0000  2312 bytes for ./Base.lproj/Login.storyboardc/NavigationController.nib
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/Info.plist ... 
+2021-05-27 18:58:40 +0000  553 bytes for ./Base.lproj/Login.storyboardc/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Base.lproj/Login.storyboardc/LoginVC.nib ... 
+2021-05-27 18:58:40 +0000  1628 bytes for ./Base.lproj/Login.storyboardc/LoginVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/PiY-wz-DXw-view-bmy-BH-eZ9.nib ... 
+2021-05-27 18:58:40 +0000  4689 bytes for ./Home.storyboardc/PiY-wz-DXw-view-bmy-BH-eZ9.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/BlockedUserViewController.nib ... 
+2021-05-27 18:58:40 +0000  1630 bytes for ./Home.storyboardc/BlockedUserViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/Zve-D8-Xgn-view-BKe-4z-6Jk.nib ... 
+2021-05-27 18:58:40 +0000  9272 bytes for ./Home.storyboardc/Zve-D8-Xgn-view-BKe-4z-6Jk.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/AddPostCategoryVC.nib ... 
+2021-05-27 18:58:40 +0000  1624 bytes for ./Home.storyboardc/AddPostCategoryVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/SearchVC.nib ... 
+2021-05-27 18:58:40 +0000  1651 bytes for ./Home.storyboardc/SearchVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/aBX-ji-xoG-view-ZFC-GR-j6Q.nib ... 
+2021-05-27 18:58:40 +0000  4631 bytes for ./Home.storyboardc/aBX-ji-xoG-view-ZFC-GR-j6Q.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/ImageSliderViewController.nib ... 
+2021-05-27 18:58:40 +0000  1049 bytes for ./Home.storyboardc/ImageSliderViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/FollowedUserPostsVC.nib ... 
+2021-05-27 18:58:40 +0000  1628 bytes for ./Home.storyboardc/FollowedUserPostsVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/aJ8-Nd-uRH-view-zMX-ZO-ziK.nib ... 
+2021-05-27 18:58:40 +0000  4770 bytes for ./Home.storyboardc/aJ8-Nd-uRH-view-zMX-ZO-ziK.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/ChatSingleVC.nib ... 
+2021-05-27 18:58:40 +0000  1101 bytes for ./Home.storyboardc/ChatSingleVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/AddPostVC.nib ... 
+2021-05-27 18:58:40 +0000  1607 bytes for ./Home.storyboardc/AddPostVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/PrivacySettingViewController.nib ... 
+2021-05-27 18:58:40 +0000  1636 bytes for ./Home.storyboardc/PrivacySettingViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/Z7e-0L-KQv-view-haO-fu-dAW.nib ... 
+2021-05-27 18:58:40 +0000  33993 bytes for ./Home.storyboardc/Z7e-0L-KQv-view-haO-fu-dAW.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/CommentNavController.nib ... 
+2021-05-27 18:58:40 +0000  1823 bytes for ./Home.storyboardc/CommentNavController.nib
+copying file ./Home.storyboardc/OPA-IR-Uxu-view-NhI-jg-rQP.nib ... 
+2021-05-27 18:58:40 +0000  2831 bytes for ./Home.storyboardc/OPA-IR-Uxu-view-NhI-jg-rQP.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/SocialViewController.nib ... 
+2021-05-27 18:58:40 +0000  1117 bytes for ./Home.storyboardc/SocialViewController.nib
+copying file ./Home.storyboardc/9X8-Ih-vD5-view-eYb-L7-E8X.nib ... 
+2021-05-27 18:58:40 +0000  4776 bytes for ./Home.storyboardc/9X8-Ih-vD5-view-eYb-L7-E8X.nib
+copying file ./Home.storyboardc/vxx-9D-Agh-view-yND-9W-GSY.nib ... 
+2021-05-27 18:58:40 +0000  2834 bytes for ./Home.storyboardc/vxx-9D-Agh-view-yND-9W-GSY.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/KrA-Ed-a3l-view-gLX-gB-38c.nib ... 
+2021-05-27 18:58:40 +0000  9903 bytes for ./Home.storyboardc/KrA-Ed-a3l-view-gLX-gB-38c.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/ProfileVC.nib ... 
+2021-05-27 18:58:40 +0000  1626 bytes for ./Home.storyboardc/ProfileVC.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/x1x-MK-m2E-view-5lD-Ow-mfu.nib ... 
+2021-05-27 18:58:40 +0000  3453 bytes for ./Home.storyboardc/x1x-MK-m2E-view-5lD-Ow-mfu.nib
+copying file ./Home.storyboardc/Fmj-ep-NiP-view-LUr-ok-3V2.nib ... 
+2021-05-27 18:58:40 +0000  10343 bytes for ./Home.storyboardc/Fmj-ep-NiP-view-LUr-ok-3V2.nib
+copying file ./Home.storyboardc/ahP-Qv-Dzc-view-mDu-lO-fJa.nib ... 
+2021-05-27 18:58:40 +0000  6902 bytes for ./Home.storyboardc/ahP-Qv-Dzc-view-mDu-lO-fJa.nib
+copying file ./Home.storyboardc/jkT-GP-S1S-view-fK4-O6-xF4.nib ... 
+2021-05-27 18:58:40 +0000  7251 bytes for ./Home.storyboardc/jkT-GP-S1S-view-fK4-O6-xF4.nib
+copying file ./Home.storyboardc/NavControler.nib ... 
+2021-05-27 18:58:40 +0000  4792 bytes for ./Home.storyboardc/NavControler.nib
+copying file ./Home.storyboardc/CommentVc.nib ... 
+2021-05-27 18:58:40 +0000  1094 bytes for ./Home.storyboardc/CommentVc.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/cK8-1D-wz1-view-KeE-ve-RNg.nib ... 
+2021-05-27 18:58:40 +0000  3806 bytes for ./Home.storyboardc/cK8-1D-wz1-view-KeE-ve-RNg.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/Info.plist ... 
+2021-05-27 18:58:40 +0000  777 bytes for ./Home.storyboardc/Info.plist
+copying file ./Home.storyboardc/ReplyViewController.nib ... 
+2021-05-27 18:58:40 +0000  1115 bytes for ./Home.storyboardc/ReplyViewController.nib
+2021-05-27 18:58:40 +0000  copying file ./Home.storyboardc/aBB-OM-7CX-view-YK0-y6-ZAC.nib ... 
+2021-05-27 18:58:40 +0000  4724 bytes for ./Home.storyboardc/aBB-OM-7CX-view-YK0-y6-ZAC.nib
+2021-05-27 18:58:40 +0000  copying file ./OtherHeaderTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  9343 bytes for ./OtherHeaderTableViewCell.nib
+copying file ./asd.nib ... 
+2021-05-27 18:58:40 +0000  16107 bytes for ./asd.nib
+2021-05-27 18:58:40 +0000  copying file ./CategoriesThirdCell.nib ... 
+2021-05-27 18:58:40 +0000  8245 bytes for ./CategoriesThirdCell.nib
+2021-05-27 18:58:40 +0000  copying file ./CategoriesFirstCell.nib ... 
+2021-05-27 18:58:40 +0000  15882 bytes for ./CategoriesFirstCell.nib
+2021-05-27 18:58:40 +0000  copying file ./Assets.car ... 
+2021-05-27 18:58:40 +0000  2415448 bytes for ./Assets.car
+2021-05-27 18:58:40 +0000  copying file ./HeaderProfileTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  1552 bytes for ./HeaderProfileTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2021-05-27 18:58:40 +0000  16440 bytes for ./AppIcon76x76@2x~ipad.png
+2021-05-27 18:58:40 +0000  copying file ./TwoImagesQuestCell.nib ... 
+2021-05-27 18:58:40 +0000  14572 bytes for ./TwoImagesQuestCell.nib
+2021-05-27 18:58:40 +0000  copying file ./MorePostOptionCell.nib ... 
+2021-05-27 18:58:40 +0000  3914 bytes for ./MorePostOptionCell.nib
+2021-05-27 18:58:40 +0000  copying file ./CommentsTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  16723 bytes for ./CommentsTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./ImageQuestTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  13543 bytes for ./ImageQuestTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./ReplyCell.nib ... 
+2021-05-27 18:58:40 +0000  8855 bytes for ./ReplyCell.nib
+2021-05-27 18:58:40 +0000  copying file ./AddPostCatCell.nib ... 
+2021-05-27 18:58:40 +0000  3895 bytes for ./AddPostCatCell.nib
+2021-05-27 18:58:40 +0000  copying file ./NormalPostTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  12680 bytes for ./NormalPostTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2021-05-27 18:58:40 +0000  1069440 bytes for ./Frameworks/SwiftyJSON.framework/SwiftyJSON
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/SwiftyJSON.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  739 bytes for ./Frameworks/SwiftyJSON.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  5706 bytes for ./Frameworks/ZKProgressHUD.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info.png ... 
+2021-05-27 18:58:40 +0000  835 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@3x.png ... 
+2021-05-27 18:58:40 +0000  839 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@3x.png ... 
+2021-05-27 18:58:40 +0000  8319 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@2x.png ... 
+2021-05-27 18:58:40 +0000  4893 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@2x.png ... 
+2021-05-27 18:58:40 +0000  585 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@3x.png ... 
+2021-05-27 18:58:40 +0000  2198 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@2x.png ... 
+2021-05-27 18:58:40 +0000  875 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@3x.png ... 
+2021-05-27 18:58:40 +0000  1171 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@2x.png ... 
+2021-05-27 18:58:40 +0000  1433 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error.png ... 
+2021-05-27 18:58:40 +0000  411 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success.png ... 
+2021-05-27 18:58:40 +0000  550 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask.png ... 
+2021-05-27 18:58:40 +0000  1845 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD ... 
+2021-05-27 18:58:40 +0000  923360 bytes for ./Frameworks/ZKProgressHUD.framework/ZKProgressHUD
+copying file ./Frameworks/ZKProgressHUD.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  745 bytes for ./Frameworks/ZKProgressHUD.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Kingfisher.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/Kingfisher.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Kingfisher.framework/Kingfisher ... 
+2021-05-27 18:58:40 +0000  6107392 bytes for ./Frameworks/Kingfisher.framework/Kingfisher
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Kingfisher.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  741 bytes for ./Frameworks/Kingfisher.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/MOLH.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/MOLH.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/MOLH.framework/MOLH ... 
+2021-05-27 18:58:40 +0000  680880 bytes for ./Frameworks/MOLH.framework/MOLH
+copying file ./Frameworks/MOLH.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  727 bytes for ./Frameworks/MOLH.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/JGProgressHUD.framework/JGProgressHUD ... 
+2021-05-27 18:58:40 +0000  707424 bytes for ./Frameworks/JGProgressHUD.framework/JGProgressHUD
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/JGProgressHUD.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  745 bytes for ./Frameworks/JGProgressHUD.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ImageSlideshow.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  2406 bytes for ./Frameworks/ImageSlideshow.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ImageSlideshow.framework/ImageSlideshow ... 
+2021-05-27 18:58:40 +0000  1595680 bytes for ./Frameworks/ImageSlideshow.framework/ImageSlideshow
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ImageSlideshow.framework/ic_cross_white@3x.png ... 
+2021-05-27 18:58:40 +0000  345 bytes for ./Frameworks/ImageSlideshow.framework/ic_cross_white@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ImageSlideshow.framework/ic_cross_white@2x.png ... 
+2021-05-27 18:58:40 +0000  271 bytes for ./Frameworks/ImageSlideshow.framework/ic_cross_white@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/ImageSlideshow.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  748 bytes for ./Frameworks/ImageSlideshow.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/DropDown.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  2096 bytes for ./Frameworks/DropDown.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/DropDown.framework/DropDown ... 
+2021-05-27 18:58:40 +0000  1118704 bytes for ./Frameworks/DropDown.framework/DropDown
+copying file ./Frameworks/DropDown.framework/DropDownCell.nib ... 
+2021-05-27 18:58:40 +0000  2515 bytes for ./Frameworks/DropDown.framework/DropDownCell.nib
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/DropDown.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  736 bytes for ./Frameworks/DropDown.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+2021-05-27 18:58:40 +0000  1169472 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/IQKeyboardManager.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  755 bytes for ./Frameworks/IQKeyboardManager.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Toast_Swift.framework/Toast_Swift ... 
+2021-05-27 18:58:40 +0000  576576 bytes for ./Frameworks/Toast_Swift.framework/Toast_Swift
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Toast_Swift.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  741 bytes for ./Frameworks/Toast_Swift.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  7828 bytes for ./Frameworks/Gallery.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery ... 
+2021-05-27 18:58:40 +0000  3429424 bytes for ./Frameworks/Gallery.framework/Gallery
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@3x.png ... 
+2021-05-27 18:58:40 +0000  1660 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@3x.png
+copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@2x.png ... 
+2021-05-27 18:58:40 +0000  244 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_video_view_camera@2x.png ... 
+2021-05-27 18:58:40 +0000  364 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_video_view_camera@2x.png
+copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@3x.png ... 
+2021-05-27 18:58:40 +0000  337 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@3x.png
+copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@2x.png ... 
+2021-05-27 18:58:40 +0000  2113 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@2x.png ... 
+2021-05-27 18:58:40 +0000  1301 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@2x.png ... 
+2021-05-27 18:58:40 +0000  1301 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_permission_view_camera@2x.png ... 
+2021-05-27 18:58:40 +0000  896 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_permission_view_camera@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@3x.png ... 
+2021-05-27 18:58:40 +0000  818 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@3x.png ... 
+2021-05-27 18:58:40 +0000  818 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@2x.png ... 
+2021-05-27 18:58:40 +0000  3467 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@2x.png ... 
+2021-05-27 18:58:40 +0000  364 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@2x.png ... 
+2021-05-27 18:58:40 +0000  1703 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@3x.png ... 
+2021-05-27 18:58:40 +0000  991 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@3x.png ... 
+2021-05-27 18:58:40 +0000  560 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_video_cell_camera@2x.png ... 
+2021-05-27 18:58:40 +0000  275 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_video_cell_camera@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@3x.png ... 
+2021-05-27 18:58:40 +0000  3138 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_close@3x.png ... 
+2021-05-27 18:58:40 +0000  461 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_close@3x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@2x.png ... 
+2021-05-27 18:58:40 +0000  6105 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@3x.png ... 
+2021-05-27 18:58:40 +0000  9318 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@3x.png
+copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_placeholder@2x.png ... 
+2021-05-27 18:58:40 +0000  2735 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_placeholder@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Gallery.bundle/gallery_close@2x.png ... 
+2021-05-27 18:58:40 +0000  406 bytes for ./Frameworks/Gallery.framework/Gallery.bundle/gallery_close@2x.png
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Gallery.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  781 bytes for ./Frameworks/Gallery.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/FittedSheets.framework/FittedSheets ... 
+2021-05-27 18:58:40 +0000  1614944 bytes for ./Frameworks/FittedSheets.framework/FittedSheets
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/FittedSheets.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/FittedSheets.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/FittedSheets.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  791 bytes for ./Frameworks/FittedSheets.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Alamofire.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:40 +0000  1798 bytes for ./Frameworks/Alamofire.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/Alamofire.framework/Alamofire ... 
+2021-05-27 18:58:40 +0000  3656064 bytes for ./Frameworks/Alamofire.framework/Alamofire
+2021-05-27 18:58:40 +0000  copying file ./Frameworks/Alamofire.framework/Info.plist ... 
+2021-05-27 18:58:40 +0000  737 bytes for ./Frameworks/Alamofire.framework/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./UserTableViewCell.nib ... 
+2021-05-27 18:58:40 +0000  4223 bytes for ./UserTableViewCell.nib
+2021-05-27 18:58:40 +0000  copying file ./embedded.mobileprovision ... 
+2021-05-27 18:58:40 +0000  16230 bytes for ./embedded.mobileprovision
+2021-05-27 18:58:40 +0000  copying file ./SingleChatWithCell.nib ... 
+2021-05-27 18:58:40 +0000  5476 bytes for ./SingleChatWithCell.nib
+2021-05-27 18:58:40 +0000  copying file ./Info.plist ... 
+2021-05-27 18:58:40 +0000  2397 bytes for ./Info.plist
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/MorePostsOptionsVC.nib ... 
+2021-05-27 18:58:40 +0000  1035 bytes for ./More.storyboardc/MorePostsOptionsVC.nib
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/bBV-Nn-66c-view-4iy-HU-IJa.nib ... 
+2021-05-27 18:58:40 +0000  11052 bytes for ./More.storyboardc/bBV-Nn-66c-view-4iy-HU-IJa.nib
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/4mf-8E-bYb-view-yKW-Qd-Tj7.nib ... 
+2021-05-27 18:58:40 +0000  4305 bytes for ./More.storyboardc/4mf-8E-bYb-view-yKW-Qd-Tj7.nib
+copying file ./More.storyboardc/ChouseCategoryVC.nib ... 
+2021-05-27 18:58:40 +0000  1109 bytes for ./More.storyboardc/ChouseCategoryVC.nib
+copying file ./More.storyboardc/KQ9-0c-H9M-view-5zi-cW-12s.nib ... 
+2021-05-27 18:58:40 +0000  4297 bytes for ./More.storyboardc/KQ9-0c-H9M-view-5zi-cW-12s.nib
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/MorePostsUserVc.nib ... 
+1107 bytes for ./More.storyboardc/MorePostsUserVc.nib
+copying file ./More.storyboardc/MoreCommentOptionsVC.nib ... 
+2021-05-27 18:58:40 +0000  1039 bytes for ./More.storyboardc/MoreCommentOptionsVC.nib
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/Info.plist ... 
+2021-05-27 18:58:40 +0000  293 bytes for ./More.storyboardc/Info.plist
+2021-05-27 18:58:40 +0000  copying file ./More.storyboardc/E0l-Fc-vLf-view-bBM-w6-3Ks.nib ... 
+2021-05-27 18:58:40 +0000  2834 bytes for ./More.storyboardc/E0l-Fc-vLf-view-bBM-w6-3Ks.nib
+2021-05-27 18:58:40 +0000  copying file ./PkgInfo ... 
+2021-05-27 18:58:40 +0000  8 bytes for ./PkgInfo
+2021-05-27 18:58:40 +0000  /usr/bin/ditto exited with 0
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb4c0dbb0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fcfb1f3f730:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf83dd96f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83dd6ef0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfef9ca660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fcfb1fa6980:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcf83f6c360; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fcfb1fa7860:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4cef280; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb537de40; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfd90db250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fcfb1f9c570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb4c683a0; bundleID='org.cocoapods.FittedSheets', path='<DVTFilePath:0x7fcfb1f25b70:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edd00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a854c0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb0747560>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.FittedSheets', executablePath='<DVTFilePath:0x7fcfb1f8a550:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb53755d0; bundleID='org.cocoapods.Gallery', path='<DVTFilePath:0x7fcfb1f33880:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c0ec60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb5ad4140; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcff069cd90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Gallery', executablePath='<DVTFilePath:0x7fcfb1f4d5e0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd02e3f1a50; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7fcfb80e4fb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce6960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83dd6ef0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f6e9a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7fcfb80e6c60:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd02e3f17f0; bundleID='org.cocoapods.ImageSlideshow', path='<DVTFilePath:0x7fcf98463590:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce8980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83dd6ef0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfef9ca660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ImageSlideshow', executablePath='<DVTFilePath:0x7fcfb80e3f40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb5367420; bundleID='org.cocoapods.JGProgressHUD', path='<DVTFilePath:0x7fcf9845d370:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf834b3dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf81b2b6f0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfef9ca660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.JGProgressHUD', executablePath='<DVTFilePath:0x7fcf83f63460:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb5364370; bundleID='org.cocoapods.Kingfisher', path='<DVTFilePath:0x7fcf9845e870:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb5309db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb5ad4140; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01dde3d90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Kingfisher', executablePath='<DVTFilePath:0x7fcf9845fdb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb4ce1020; bundleID='org.cocoapods.MOLH', path='<DVTFilePath:0x7fcf984230a0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf81b29770; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb537df10; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53ce680>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.MOLH', executablePath='<DVTFilePath:0x7fcf9841c490:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb4c63e80; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fcf9841cf40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c63dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb5ad4140; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcff066ff70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fcf9841daf0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb4ce3f60; bundleID='org.cocoapods.Toast-Swift', path='<DVTFilePath:0x7fcf984248c0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd02e3d7ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a854c0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb539ac00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Toast-Swift', executablePath='<DVTFilePath:0x7fd02e3f1180:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcfb536ca40; bundleID='org.cocoapods.ZKProgressHUD', path='<DVTFilePath:0x7fcf984e7570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb5ad4140; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf7a0b6180>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ZKProgressHUD', executablePath='<DVTFilePath:0x7fcfb53c67b0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/LaowaiQuestions' '-r' '-o' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/LaowaiQuestions'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionSymbolsStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionAppThinningStep
+2021-05-27 18:58:40 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionArchThinningStep
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "Alamofire" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "DropDown" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "FittedSheets" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "Gallery" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "IQKeyboardManager" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "ImageSlideshow" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "JGProgressHUD" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "Kingfisher" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "MOLH" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "SwiftyJSON" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "Toast_Swift" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "ZKProgressHUD" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/LaowaiQuestions' '-verify_arch' 'arm64e'
+2021-05-27 18:58:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-27 18:58:40 +0000  Skipping architecture thinning for item "LaowaiQuestions" because arch "arm64e" wasn't found
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionODRStep
+2021-05-27 18:58:40 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb4c0dbb0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fcfb1f3f730:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf83dd96f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c23660; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8ad400>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fcfb1fa6980:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcf83f6c360; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fcfb1fa7860:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4cef280; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd02e35e5a0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf834ba140>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fcfb1f9c570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb4c683a0; bundleID='org.cocoapods.FittedSheets', path='<DVTFilePath:0x7fcfb1f25b70:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edd00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c2fb00; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8a7cb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.FittedSheets', executablePath='<DVTFilePath:0x7fcfb1f8a550:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb53755d0; bundleID='org.cocoapods.Gallery', path='<DVTFilePath:0x7fcfb1f33880:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c0ec60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c2ff00; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8c6640>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Gallery', executablePath='<DVTFilePath:0x7fcfb1f4d5e0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd02e3f1a50; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7fcfb80e4fb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce6960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c236f0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8a7cb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7fcfb80e6c60:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd02e3f17f0; bundleID='org.cocoapods.ImageSlideshow', path='<DVTFilePath:0x7fcf98463590:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce8980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c23760; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8c6640>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ImageSlideshow', executablePath='<DVTFilePath:0x7fcfb80e3f40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb5367420; bundleID='org.cocoapods.JGProgressHUD', path='<DVTFilePath:0x7fcf9845d370:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf834b3dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f69530; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f69750>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.JGProgressHUD', executablePath='<DVTFilePath:0x7fcf83f63460:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb5364370; bundleID='org.cocoapods.Kingfisher', path='<DVTFilePath:0x7fcf9845e870:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb5309db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f69cb0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f64d00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Kingfisher', executablePath='<DVTFilePath:0x7fcf9845fdb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb4ce1020; bundleID='org.cocoapods.MOLH', path='<DVTFilePath:0x7fcf984230a0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf81b29770; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f69610; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f686a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.MOLH', executablePath='<DVTFilePath:0x7fcf9841c490:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb4c63e80; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fcf9841cf40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c63dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f69530; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f69750>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fcf9841daf0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb4ce3f60; bundleID='org.cocoapods.Toast-Swift', path='<DVTFilePath:0x7fcf984248c0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd02e3d7ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f69530; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83f69750>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Toast-Swift', executablePath='<DVTFilePath:0x7fd02e3f1180:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcfb536ca40; bundleID='org.cocoapods.ZKProgressHUD', path='<DVTFilePath:0x7fcf984e7570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c23970; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab89fb00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ZKProgressHUD', executablePath='<DVTFilePath:0x7fcfb53c67b0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'>', hardenedRuntime='0'>'>
+2021-05-27 18:58:40 +0000  Running /usr/bin/xattr '-crs' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app'
+2021-05-27 18:58:41 +0000  /usr/bin/xattr exited with 0
+2021-05-27 18:58:41 +0000  Processing step: IDEDistributionCodesignStep
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c0dbb0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fcfb1f3f730:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf83dd96f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c57fa0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9b1a0a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fcfb1fa6980:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c0dbb0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fcfb1f3f730:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf83dd96f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c564a0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01dbc8660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fcfb1fa6980:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4c0dbb0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fcfb1f3f730:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf83dd96f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb53c28d0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53d7070>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fcfb1fa6980:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~lL8U7w
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~lL8U7w' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework'
+2021-05-27 18:58:41 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Alamofire]
+2021-05-27 18:58:41 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcf83f6c360; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fcfb1fa7860:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4cef280; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4ca6e60; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab89db00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fcfb1f9c570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcf83f6c360; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fcfb1fa7860:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4cef280; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0abc150; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53d2260>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fcfb1f9c570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcf83f6c360; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fcfb1fa7860:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4cef280; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf834abbc0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf83498680>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fcfb1f9c570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~fOPFgp
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~fOPFgp' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework'
+2021-05-27 18:58:41 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.DropDown]
+2021-05-27 18:58:41 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c683a0; bundleID='org.cocoapods.FittedSheets', path='<DVTFilePath:0x7fcfb1f25b70:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edd00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0abc150; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53a1d30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.FittedSheets', executablePath='<DVTFilePath:0x7fcfb1f8a550:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c683a0; bundleID='org.cocoapods.FittedSheets', path='<DVTFilePath:0x7fcfb1f25b70:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edd00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4cbd7e0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9be41e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.FittedSheets', executablePath='<DVTFilePath:0x7fcfb1f8a550:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4c683a0; bundleID='org.cocoapods.FittedSheets', path='<DVTFilePath:0x7fcfb1f25b70:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edd00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf81b2b1a0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfee43af70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.FittedSheets', executablePath='<DVTFilePath:0x7fcfb1f8a550:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~0wTSXM
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~0wTSXM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework'
+2021-05-27 18:58:41 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FittedSheets]
+2021-05-27 18:58:41 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb53755d0; bundleID='org.cocoapods.Gallery', path='<DVTFilePath:0x7fcfb1f33880:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c0ec60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4ca6e60; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfae412820>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Gallery', executablePath='<DVTFilePath:0x7fcfb1f4d5e0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb53755d0; bundleID='org.cocoapods.Gallery', path='<DVTFilePath:0x7fcfb1f33880:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c0ec60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4ca3ef0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8c6640>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Gallery', executablePath='<DVTFilePath:0x7fcfb1f4d5e0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb53755d0; bundleID='org.cocoapods.Gallery', path='<DVTFilePath:0x7fcfb1f33880:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c0ec60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4ca4120; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab857070>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Gallery', executablePath='<DVTFilePath:0x7fcfb1f4d5e0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~pbzZ7q
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~pbzZ7q' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework'
+2021-05-27 18:58:41 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Gallery]
+2021-05-27 18:58:41 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fd02e3f1a50; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7fcfb80e4fb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce6960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c59210; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01dbc8660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7fcfb80e6c60:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fd02e3f1a50; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7fcfb80e4fb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce6960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4cb9530; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab89fb00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7fcfb80e6c60:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd02e3f1a50; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7fcfb80e4fb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce6960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c9c720; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab86fed0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7fcfb80e6c60:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~xRVFEo
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~xRVFEo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'
+2021-05-27 18:58:41 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.IQKeyboardManager]
+2021-05-27 18:58:41 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fd02e3f17f0; bundleID='org.cocoapods.ImageSlideshow', path='<DVTFilePath:0x7fcf98463590:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce8980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c22f50; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfae412820>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ImageSlideshow', executablePath='<DVTFilePath:0x7fcfb80e3f40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:41 +0000  Entitlements for <IDEDistributionItem: 0x7fd02e3f17f0; bundleID='org.cocoapods.ImageSlideshow', path='<DVTFilePath:0x7fcf98463590:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce8980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0acd390; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53ddc50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ImageSlideshow', executablePath='<DVTFilePath:0x7fcfb80e3f40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd02e3f17f0; bundleID='org.cocoapods.ImageSlideshow', path='<DVTFilePath:0x7fcf98463590:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4ce8980; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4cb9580; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9bdb760>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ImageSlideshow', executablePath='<DVTFilePath:0x7fcfb80e3f40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~gbKhEK
+2021-05-27 18:58:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~gbKhEK' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.ImageSlideshow]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb5367420; bundleID='org.cocoapods.JGProgressHUD', path='<DVTFilePath:0x7fcf9845d370:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf834b3dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c9f4b0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9be41e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.JGProgressHUD', executablePath='<DVTFilePath:0x7fcf83f63460:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb5367420; bundleID='org.cocoapods.JGProgressHUD', path='<DVTFilePath:0x7fcf9845d370:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf834b3dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0acd390; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53d3630>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.JGProgressHUD', executablePath='<DVTFilePath:0x7fcf83f63460:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb5367420; bundleID='org.cocoapods.JGProgressHUD', path='<DVTFilePath:0x7fcf9845d370:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf834b3dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c18590; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8a7cb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.JGProgressHUD', executablePath='<DVTFilePath:0x7fcf83f63460:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~uZcd8y
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~uZcd8y' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.JGProgressHUD]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb5364370; bundleID='org.cocoapods.Kingfisher', path='<DVTFilePath:0x7fcf9845e870:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb5309db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83f63660; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfee43af70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Kingfisher', executablePath='<DVTFilePath:0x7fcf9845fdb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb5364370; bundleID='org.cocoapods.Kingfisher', path='<DVTFilePath:0x7fcf9845e870:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb5309db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c601f0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01db2ef50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Kingfisher', executablePath='<DVTFilePath:0x7fcf9845fdb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb5364370; bundleID='org.cocoapods.Kingfisher', path='<DVTFilePath:0x7fcf9845e870:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb5309db0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4cad710; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01db18ff0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Kingfisher', executablePath='<DVTFilePath:0x7fcf9845fdb0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~sHTK0b
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~sHTK0b' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Kingfisher]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4ce1020; bundleID='org.cocoapods.MOLH', path='<DVTFilePath:0x7fcf984230a0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf81b29770; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c601f0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fd01dba6cb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.MOLH', executablePath='<DVTFilePath:0x7fcf9841c490:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4ce1020; bundleID='org.cocoapods.MOLH', path='<DVTFilePath:0x7fcf984230a0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf81b29770; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a18c60; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb072ff10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.MOLH', executablePath='<DVTFilePath:0x7fcf9841c490:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4ce1020; bundleID='org.cocoapods.MOLH', path='<DVTFilePath:0x7fcf984230a0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcf81b29770; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf83dedac0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfee43af70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.MOLH', executablePath='<DVTFilePath:0x7fcf9841c490:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~Nxpx9I
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~Nxpx9I' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.MOLH]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c63e80; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fcf9841cf40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c63dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c57fa0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfae2c6910>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fcf9841daf0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c63e80; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fcf9841cf40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c63dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0ac2c80; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfd9058810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fcf9841daf0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4c63e80; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fcf9841cf40:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c63dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4cac8f0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb3896080>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fcf9841daf0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~izhsc8
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~izhsc8' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SwiftyJSON]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4ce3f60; bundleID='org.cocoapods.Toast-Swift', path='<DVTFilePath:0x7fcf984248c0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd02e3d7ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a34e00; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53d7070>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Toast-Swift', executablePath='<DVTFilePath:0x7fd02e3f1180:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4ce3f60; bundleID='org.cocoapods.Toast-Swift', path='<DVTFilePath:0x7fcf984248c0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd02e3d7ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c57fa0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab857070>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Toast-Swift', executablePath='<DVTFilePath:0x7fd02e3f1180:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4ce3f60; bundleID='org.cocoapods.Toast-Swift', path='<DVTFilePath:0x7fcf984248c0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd02e3d7ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4c17260; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfab8d1570>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.Toast-Swift', executablePath='<DVTFilePath:0x7fd02e3f1180:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~9mbHwX
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~9mbHwX' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Toast-Swift]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb536ca40; bundleID='org.cocoapods.ZKProgressHUD', path='<DVTFilePath:0x7fcf984e7570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd02a978940; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9b67460>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ZKProgressHUD', executablePath='<DVTFilePath:0x7fcfb53c67b0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'>', hardenedRuntime='0'>'>: {
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb536ca40; bundleID='org.cocoapods.ZKProgressHUD', path='<DVTFilePath:0x7fcf984e7570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a34e00; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb072ff10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ZKProgressHUD', executablePath='<DVTFilePath:0x7fcfb53c67b0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb536ca40; bundleID='org.cocoapods.ZKProgressHUD', path='<DVTFilePath:0x7fcf984e7570:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb53edf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcf834b1310; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcf834b14c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='(null)', teamID='X2PL288BYD', identifier='org.cocoapods.ZKProgressHUD', executablePath='<DVTFilePath:0x7fcfb53c67b0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~5CCJM4
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~5CCJM4' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.ZKProgressHUD]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c1cce0; bundleID='c.mosci.news', path='<DVTFilePath:0x7fcf834998d0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c135c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb0a34e00; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb53a4450>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='{
+    "application-identifier" = "X2PL288BYD.c.mosci.news";
+    "com.apple.developer.team-identifier" = X2PL288BYD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "X2PL288BYD.c.mosci.news"
+    );
+}', teamID='X2PL288BYD', identifier='c.mosci.news', executablePath='<DVTFilePath:0x7fcf9ace0210:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/LaowaiQuestions'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "X2PL288BYD.c.mosci.news";
+    "com.apple.developer.team-identifier" = X2PL288BYD;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "X2PL288BYD.c.mosci.news"
+    );
+}
+2021-05-27 18:58:42 +0000  Entitlements for <IDEDistributionItem: 0x7fcfb4c1cce0; bundleID='c.mosci.news', path='<DVTFilePath:0x7fcf834998d0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c135c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd02a978940; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfb3896080>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='{
+    "application-identifier" = "X2PL288BYD.c.mosci.news";
+    "com.apple.developer.team-identifier" = X2PL288BYD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "X2PL288BYD.c.mosci.news"
+    );
+}', teamID='X2PL288BYD', identifier='c.mosci.news', executablePath='<DVTFilePath:0x7fcf9ace0210:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/LaowaiQuestions'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "X2PL288BYD.c.mosci.news";
+    "com.apple.developer.team-identifier" = X2PL288BYD;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "X2PL288BYD.c.mosci.news"
+    );
+}
+2021-05-27 18:58:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcfb4c1cce0; bundleID='c.mosci.news', path='<DVTFilePath:0x7fcf834998d0:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fcfb4c135c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fcfb4caafc0; name='Apple Development: ammar mohamed kamal eissa ashour (7R587X675B)', hash='21F5DB289EA9E9F2A70999034C6B184E578EA917', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fcfa9b6e6f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-02-18 11:52:45 +0000''>', entitlements='{
+    "application-identifier" = "X2PL288BYD.c.mosci.news";
+    "com.apple.developer.team-identifier" = X2PL288BYD;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "X2PL288BYD.c.mosci.news"
+    );
+}', teamID='X2PL288BYD', identifier='c.mosci.news', executablePath='<DVTFilePath:0x7fcf9ace0210:'/Users/macbook22/Library/Developer/Xcode/Archives/2021-05-27/LaowaiQuestions 5-27-21, 8.54 PM.xcarchive/Products/Applications/LaowaiQuestions.app/LaowaiQuestions'>', hardenedRuntime='0'>'> to: /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~Um1qPW
+2021-05-27 18:58:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '44764D5943B004BF1B72970EB423F1ACADA3F841' '--entitlements' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/entitlements~~~Um1qPW' '--preserve-metadata=identifier,flags,runtime' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app'
+2021-05-27 18:58:42 +0000  /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app: signed app bundle with Mach-O thin (arm64) [c.mosci.news]
+2021-05-27 18:58:42 +0000  /usr/bin/codesign exited with 0
+2021-05-27 18:58:42 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-27 18:58:42 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-05-27 18:58:42 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root' '/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Packages/LaowaiQuestions.ipa'
+2021-05-27 18:58:42 +0000  >>> Copying /var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root 
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:42 +0000  55419 bytes for ./Payload/LaowaiQuestions.app/_CodeSignature/CodeResources
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/CategorySecondCell.nib ... 
+2021-05-27 18:58:42 +0000  17372 bytes for ./Payload/LaowaiQuestions.app/CategorySecondCell.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/CreatPostCell.nib ... 
+2021-05-27 18:58:42 +0000  16844 bytes for ./Payload/LaowaiQuestions.app/CreatPostCell.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/ar.lproj/LaunchScreen.strings ... 
+2021-05-27 18:58:42 +0000  1 bytes for ./Payload/LaowaiQuestions.app/ar.lproj/LaunchScreen.strings
+copying file ./Payload/LaowaiQuestions.app/ar.lproj/Localizable.strings ... 
+2021-05-27 18:58:42 +0000  63 bytes for ./Payload/LaowaiQuestions.app/ar.lproj/Localizable.strings
+copying file ./Payload/LaowaiQuestions.app/ar.lproj/Login.strings ... 
+2021-05-27 18:58:42 +0000  5143 bytes for ./Payload/LaowaiQuestions.app/ar.lproj/Login.strings
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/zh-Hans.lproj/LaunchScreen.strings ... 
+2021-05-27 18:58:42 +0000  1 bytes for ./Payload/LaowaiQuestions.app/zh-Hans.lproj/LaunchScreen.strings
+copying file ./Payload/LaowaiQuestions.app/zh-Hans.lproj/Localizable.strings ... 
+2021-05-27 18:58:42 +0000  64 bytes for ./Payload/LaowaiQuestions.app/zh-Hans.lproj/Localizable.strings
+copying file ./Payload/LaowaiQuestions.app/zh-Hans.lproj/Login.strings ... 
+2021-05-27 18:58:42 +0000  4879 bytes for ./Payload/LaowaiQuestions.app/zh-Hans.lproj/Login.strings
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/UIViewController-y6x-3c-cGm.nib ... 
+2021-05-27 18:58:42 +0000  1074 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/UIViewController-y6x-3c-cGm.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/Q3Z-nz-zv6-view-hZ6-KP-zxg.nib ... 
+2021-05-27 18:58:42 +0000  6065 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/Q3Z-nz-zv6-view-hZ6-KP-zxg.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/y6x-3c-cGm-view-vqN-nz-tuB.nib ... 
+2021-05-27 18:58:42 +0000  5468 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/y6x-3c-cGm-view-vqN-nz-tuB.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/EditProfileViewController.nib ... 
+2021-05-27 18:58:42 +0000  2024 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/EditProfileViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/MyFollowersViewController.nib ... 
+2021-05-27 18:58:42 +0000  1631 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/MyFollowersViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/Kwm-a0-m0j-view-Oap-UF-M0H.nib ... 
+2021-05-27 18:58:42 +0000  4541 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/Kwm-a0-m0j-view-Oap-UF-M0H.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/H4t-6r-7PY-view-Qyt-bz-z2E.nib ... 
+2021-05-27 18:58:42 +0000  5873 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/H4t-6r-7PY-view-Qyt-bz-z2E.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/SavedPostVc.nib ... 
+2021-05-27 18:58:42 +0000  1602 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/SavedPostVc.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/8LV-3z-LA7-view-Ohn-lu-DKo.nib ... 
+2021-05-27 18:58:42 +0000  7731 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/8LV-3z-LA7-view-Ohn-lu-DKo.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/raM-gS-4xP-view-ydv-Jd-28z.nib ... 
+2021-05-27 18:58:42 +0000  11361 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/raM-gS-4xP-view-ydv-Jd-28z.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/ChangePasswordViewController.nib ... 
+2021-05-27 18:58:42 +0000  1055 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/ChangePasswordViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/N4d-h2-nko-view-IjK-ea-3dh.nib ... 
+2021-05-27 18:58:42 +0000  7612 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/N4d-h2-nko-view-IjK-ea-3dh.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/HUd-Jq-pj5-view-Lcx-K2-ICK.nib ... 
+2021-05-27 18:58:42 +0000  7110 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/HUd-Jq-pj5-view-Lcx-K2-ICK.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/Info.plist ... 
+2021-05-27 18:58:42 +0000  558 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/SettingVC.nib ... 
+2021-05-27 18:58:42 +0000  1597 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/SettingVC.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/OtherProfileVC.nib ... 
+2021-05-27 18:58:42 +0000  1608 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/OtherProfileVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/ChangeLanguageVC.nib ... 
+2021-05-27 18:58:42 +0000  1612 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/ChangeLanguageVC.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/MakeReportPostVc.nib ... 
+2021-05-27 18:58:42 +0000  1109 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/MakeReportPostVc.nib
+copying file ./Payload/LaowaiQuestions.app/Profile.storyboardc/mY6-u7-kQx-view-l1a-ZW-ziQ.nib ... 
+2021-05-27 18:58:42 +0000  3455 bytes for ./Payload/LaowaiQuestions.app/Profile.storyboardc/mY6-u7-kQx-view-l1a-ZW-ziQ.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/BlockedUserTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4300 bytes for ./Payload/LaowaiQuestions.app/BlockedUserTableViewCell.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/en.lproj/Localizable.strings ... 
+2021-05-27 18:58:42 +0000  63 bytes for ./Payload/LaowaiQuestions.app/en.lproj/Localizable.strings
+copying file ./Payload/LaowaiQuestions.app/en.lproj/Login.strings ... 
+2021-05-27 18:58:42 +0000  4879 bytes for ./Payload/LaowaiQuestions.app/en.lproj/Login.strings
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/LaowaiQuestions ... 
+2021-05-27 18:58:42 +0000  2182384 bytes for ./Payload/LaowaiQuestions.app/LaowaiQuestions
+copying file ./Payload/LaowaiQuestions.app/ImageCollectionViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4433 bytes for ./Payload/LaowaiQuestions.app/ImageCollectionViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/CommentOnlyCell.nib ... 
+8956 bytes for ./Payload/LaowaiQuestions.app/CommentOnlyCell.nib
+copying file ./Payload/LaowaiQuestions.app/AppIcon60x60@2x.png ... 
+2021-05-27 18:58:42 +0000  11611 bytes for ./Payload/LaowaiQuestions.app/AppIcon60x60@2x.png
+copying file ./Payload/LaowaiQuestions.app/MeHeader.nib ... 
+2021-05-27 18:58:42 +0000  7904 bytes for ./Payload/LaowaiQuestions.app/MeHeader.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/MorePostCLickedCellTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4115 bytes for ./Payload/LaowaiQuestions.app/MorePostCLickedCellTableViewCell.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/ProfileHeaderCell.nib ... 
+2021-05-27 18:58:42 +0000  7033 bytes for ./Payload/LaowaiQuestions.app/ProfileHeaderCell.nib
+copying file ./Payload/LaowaiQuestions.app/ChatAllUserCell.nib ... 
+2021-05-27 18:58:42 +0000  5724 bytes for ./Payload/LaowaiQuestions.app/ChatAllUserCell.nib
+copying file ./Payload/LaowaiQuestions.app/MoreCommentCLickedCellTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4115 bytes for ./Payload/LaowaiQuestions.app/MoreCommentCLickedCellTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/ProfileCell.nib ... 
+2021-05-27 18:58:42 +0000  4932 bytes for ./Payload/LaowaiQuestions.app/ProfileCell.nib
+copying file ./Payload/LaowaiQuestions.app/AddPostCatHeaderCell.nib ... 
+2021-05-27 18:58:42 +0000  4952 bytes for ./Payload/LaowaiQuestions.app/AddPostCatHeaderCell.nib
+copying file ./Payload/LaowaiQuestions.app/SingleChatMeCell.nib ... 
+2021-05-27 18:58:42 +0000  5506 bytes for ./Payload/LaowaiQuestions.app/SingleChatMeCell.nib
+copying file ./Payload/LaowaiQuestions.app/UserSearchTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4132 bytes for ./Payload/LaowaiQuestions.app/UserSearchTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/HomeHeaderCellTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  4529 bytes for ./Payload/LaowaiQuestions.app/HomeHeaderCellTableViewCell.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-05-27 18:58:42 +0000  2468 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-05-27 18:58:42 +0000  896 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-05-27 18:58:42 +0000  258 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/UIViewController-fcA-bE-Ice.nib ... 
+2021-05-27 18:58:42 +0000  910 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/UIViewController-fcA-bE-Ice.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/TermsAndCondViewController.nib ... 
+2021-05-27 18:58:42 +0000  957 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/TermsAndCondViewController.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/fcA-bE-Ice-view-whs-jR-MuY.nib ... 
+2021-05-27 18:58:42 +0000  6308 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/fcA-bE-Ice-view-whs-jR-MuY.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/MLj-ju-QEq-view-Frl-Kk-Xx3.nib ... 
+2021-05-27 18:58:42 +0000  7818 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/MLj-ju-QEq-view-Frl-Kk-Xx3.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/kIO-Oy-JJ6-view-ZWX-0K-1DS.nib ... 
+2021-05-27 18:58:42 +0000  6274 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/kIO-Oy-JJ6-view-ZWX-0K-1DS.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/SplashScreenViewController.nib ... 
+1051 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/SplashScreenViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/aRJ-ig-OOI-view-h0d-6i-hPw.nib ... 
+2021-05-27 18:58:42 +0000  13911 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/aRJ-ig-OOI-view-h0d-6i-hPw.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/k27-wM-m5U-view-xVR-03-3ry.nib ... 
+2021-05-27 18:58:42 +0000  3137 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/k27-wM-m5U-view-xVR-03-3ry.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/UIViewController-aRJ-ig-OOI.nib ... 
+2021-05-27 18:58:42 +0000  1394 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/UIViewController-aRJ-ig-OOI.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/ErrorViewController.nib ... 
+2021-05-27 18:58:42 +0000  1115 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/ErrorViewController.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/JJJ-r4-4ZS-view-e5E-Wc-ci5.nib ... 
+2021-05-27 18:58:42 +0000  5223 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/JJJ-r4-4ZS-view-e5E-Wc-ci5.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/NavigationController.nib ... 
+2021-05-27 18:58:42 +0000  2312 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/NavigationController.nib
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/Info.plist ... 
+2021-05-27 18:58:42 +0000  553 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/LoginVC.nib ... 
+2021-05-27 18:58:42 +0000  1628 bytes for ./Payload/LaowaiQuestions.app/Base.lproj/Login.storyboardc/LoginVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/PiY-wz-DXw-view-bmy-BH-eZ9.nib ... 
+2021-05-27 18:58:42 +0000  4689 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/PiY-wz-DXw-view-bmy-BH-eZ9.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/BlockedUserViewController.nib ... 
+2021-05-27 18:58:42 +0000  1630 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/BlockedUserViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/Zve-D8-Xgn-view-BKe-4z-6Jk.nib ... 
+2021-05-27 18:58:42 +0000  9272 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/Zve-D8-Xgn-view-BKe-4z-6Jk.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/AddPostCategoryVC.nib ... 
+2021-05-27 18:58:42 +0000  1624 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/AddPostCategoryVC.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/SearchVC.nib ... 
+2021-05-27 18:58:42 +0000  1651 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/SearchVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/aBX-ji-xoG-view-ZFC-GR-j6Q.nib ... 
+2021-05-27 18:58:42 +0000  4631 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/aBX-ji-xoG-view-ZFC-GR-j6Q.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/ImageSliderViewController.nib ... 
+2021-05-27 18:58:42 +0000  1049 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/ImageSliderViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/FollowedUserPostsVC.nib ... 
+2021-05-27 18:58:42 +0000  1628 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/FollowedUserPostsVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/aJ8-Nd-uRH-view-zMX-ZO-ziK.nib ... 
+2021-05-27 18:58:42 +0000  4770 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/aJ8-Nd-uRH-view-zMX-ZO-ziK.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/ChatSingleVC.nib ... 
+2021-05-27 18:58:42 +0000  1101 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/ChatSingleVC.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/AddPostVC.nib ... 
+2021-05-27 18:58:42 +0000  1607 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/AddPostVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/PrivacySettingViewController.nib ... 
+2021-05-27 18:58:42 +0000  1636 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/PrivacySettingViewController.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/Z7e-0L-KQv-view-haO-fu-dAW.nib ... 
+2021-05-27 18:58:42 +0000  33993 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/Z7e-0L-KQv-view-haO-fu-dAW.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/CommentNavController.nib ... 
+2021-05-27 18:58:42 +0000  1823 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/CommentNavController.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/OPA-IR-Uxu-view-NhI-jg-rQP.nib ... 
+2021-05-27 18:58:42 +0000  2831 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/OPA-IR-Uxu-view-NhI-jg-rQP.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/SocialViewController.nib ... 
+2021-05-27 18:58:42 +0000  1117 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/SocialViewController.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/9X8-Ih-vD5-view-eYb-L7-E8X.nib ... 
+2021-05-27 18:58:42 +0000  4776 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/9X8-Ih-vD5-view-eYb-L7-E8X.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/vxx-9D-Agh-view-yND-9W-GSY.nib ... 
+2021-05-27 18:58:42 +0000  2834 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/vxx-9D-Agh-view-yND-9W-GSY.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/KrA-Ed-a3l-view-gLX-gB-38c.nib ... 
+2021-05-27 18:58:42 +0000  9903 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/KrA-Ed-a3l-view-gLX-gB-38c.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/ProfileVC.nib ... 
+2021-05-27 18:58:42 +0000  1626 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/ProfileVC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/x1x-MK-m2E-view-5lD-Ow-mfu.nib ... 
+2021-05-27 18:58:42 +0000  3453 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/x1x-MK-m2E-view-5lD-Ow-mfu.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/Fmj-ep-NiP-view-LUr-ok-3V2.nib ... 
+2021-05-27 18:58:42 +0000  10343 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/Fmj-ep-NiP-view-LUr-ok-3V2.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/ahP-Qv-Dzc-view-mDu-lO-fJa.nib ... 
+2021-05-27 18:58:42 +0000  6902 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/ahP-Qv-Dzc-view-mDu-lO-fJa.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/jkT-GP-S1S-view-fK4-O6-xF4.nib ... 
+2021-05-27 18:58:42 +0000  7251 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/jkT-GP-S1S-view-fK4-O6-xF4.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/NavControler.nib ... 
+2021-05-27 18:58:42 +0000  4792 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/NavControler.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/CommentVc.nib ... 
+2021-05-27 18:58:42 +0000  1094 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/CommentVc.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/cK8-1D-wz1-view-KeE-ve-RNg.nib ... 
+2021-05-27 18:58:42 +0000  3806 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/cK8-1D-wz1-view-KeE-ve-RNg.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/Info.plist ... 
+2021-05-27 18:58:42 +0000  777 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/ReplyViewController.nib ... 
+2021-05-27 18:58:42 +0000  1115 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/ReplyViewController.nib
+copying file ./Payload/LaowaiQuestions.app/Home.storyboardc/aBB-OM-7CX-view-YK0-y6-ZAC.nib ... 
+2021-05-27 18:58:42 +0000  4724 bytes for ./Payload/LaowaiQuestions.app/Home.storyboardc/aBB-OM-7CX-view-YK0-y6-ZAC.nib
+2021-05-27 18:58:42 +0000  copying file ./Payload/LaowaiQuestions.app/OtherHeaderTableViewCell.nib ... 
+2021-05-27 18:58:42 +0000  9343 bytes for ./Payload/LaowaiQuestions.app/OtherHeaderTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/asd.nib ... 
+2021-05-27 18:58:42 +0000  16107 bytes for ./Payload/LaowaiQuestions.app/asd.nib
+copying file ./Payload/LaowaiQuestions.app/CategoriesThirdCell.nib ... 
+2021-05-27 18:58:42 +0000  8245 bytes for ./Payload/LaowaiQuestions.app/CategoriesThirdCell.nib
+copying file ./Payload/LaowaiQuestions.app/CategoriesFirstCell.nib ... 
+2021-05-27 18:58:42 +0000  15882 bytes for ./Payload/LaowaiQuestions.app/CategoriesFirstCell.nib
+copying file ./Payload/LaowaiQuestions.app/Assets.car ... 
+2021-05-27 18:58:43 +0000  2415448 bytes for ./Payload/LaowaiQuestions.app/Assets.car
+copying file ./Payload/LaowaiQuestions.app/HeaderProfileTableViewCell.nib ... 
+2021-05-27 18:58:43 +0000  1552 bytes for ./Payload/LaowaiQuestions.app/HeaderProfileTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/AppIcon76x76@2x~ipad.png ... 
+16440 bytes for ./Payload/LaowaiQuestions.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/LaowaiQuestions.app/TwoImagesQuestCell.nib ... 
+2021-05-27 18:58:43 +0000  14572 bytes for ./Payload/LaowaiQuestions.app/TwoImagesQuestCell.nib
+copying file ./Payload/LaowaiQuestions.app/MorePostOptionCell.nib ... 
+2021-05-27 18:58:43 +0000  3914 bytes for ./Payload/LaowaiQuestions.app/MorePostOptionCell.nib
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/CommentsTableViewCell.nib ... 
+2021-05-27 18:58:43 +0000  16723 bytes for ./Payload/LaowaiQuestions.app/CommentsTableViewCell.nib
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/ImageQuestTableViewCell.nib ... 
+2021-05-27 18:58:43 +0000  13543 bytes for ./Payload/LaowaiQuestions.app/ImageQuestTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/ReplyCell.nib ... 
+2021-05-27 18:58:43 +0000  8855 bytes for ./Payload/LaowaiQuestions.app/ReplyCell.nib
+copying file ./Payload/LaowaiQuestions.app/AddPostCatCell.nib ... 
+2021-05-27 18:58:43 +0000  3895 bytes for ./Payload/LaowaiQuestions.app/AddPostCatCell.nib
+copying file ./Payload/LaowaiQuestions.app/NormalPostTableViewCell.nib ... 
+2021-05-27 18:58:43 +0000  12680 bytes for ./Payload/LaowaiQuestions.app/NormalPostTableViewCell.nib
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2021-05-27 18:58:43 +0000  372896 bytes for ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/SwiftyJSON
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  739 bytes for ./Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  5706 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info.png ... 
+2021-05-27 18:58:43 +0000  835 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@3x.png ... 
+2021-05-27 18:58:43 +0000  839 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@3x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@3x.png ... 
+2021-05-27 18:58:43 +0000  8319 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@3x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@2x.png ... 
+2021-05-27 18:58:43 +0000  4893 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask@2x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@2x.png ... 
+2021-05-27 18:58:43 +0000  585 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@3x.png ... 
+2021-05-27 18:58:43 +0000  2198 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@3x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@2x.png ... 
+2021-05-27 18:58:43 +0000  875 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@3x.png ... 
+2021-05-27 18:58:43 +0000  1171 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success@3x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@2x.png ... 
+2021-05-27 18:58:43 +0000  1433 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/info@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error.png ... 
+2021-05-27 18:58:43 +0000  411 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/error.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success.png ... 
+2021-05-27 18:58:43 +0000  550 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/success.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask.png ... 
+2021-05-27 18:58:43 +0000  1845 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD.bundle/angle-mask.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD ... 
+2021-05-27 18:58:43 +0000  309760 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/ZKProgressHUD
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/Info.plist ... 
+745 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher ... 
+2021-05-27 18:58:43 +0000  1943120 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Kingfisher
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Info.plist ... 
+741 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/_CodeSignature/CodeResources
+copying file ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH ... 
+2021-05-27 18:58:43 +0000  266400 bytes for ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/MOLH
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/Info.plist ... 
+727 bytes for ./Payload/LaowaiQuestions.app/Frameworks/MOLH.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD ... 
+2021-05-27 18:58:43 +0000  226560 bytes for ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/JGProgressHUD
+copying file ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  745 bytes for ./Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  2406 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/_CodeSignature/CodeResources
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow ... 
+2021-05-27 18:58:43 +0000  567296 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ImageSlideshow
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ic_cross_white@3x.png ... 
+345 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ic_cross_white@3x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ic_cross_white@2x.png ... 
+2021-05-27 18:58:43 +0000  271 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/ic_cross_white@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  748 bytes for ./Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  2096 bytes for ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown ... 
+2021-05-27 18:58:43 +0000  405568 bytes for ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDown
+copying file ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDownCell.nib ... 
+2021-05-27 18:58:43 +0000  2515 bytes for ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/DropDownCell.nib
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  736 bytes for ./Payload/LaowaiQuestions.app/Frameworks/DropDown.framework/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+2021-05-27 18:58:43 +0000  373376 bytes for ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/Info.plist ... 
+755 bytes for ./Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift ... 
+2021-05-27 18:58:43 +0000  228464 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Toast_Swift
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Info.plist ... 
+741 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework/Info.plist
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/_CodeSignature/CodeResources ... 
+7828 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/_CodeSignature/CodeResources
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery ... 
+2021-05-27 18:58:43 +0000  936384 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@3x.png ... 
+2021-05-27 18:58:43 +0000  1660 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@2x.png ... 
+2021-05-27 18:58:43 +0000  244 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_video_view_camera@2x.png ... 
+2021-05-27 18:58:43 +0000  364 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_video_view_camera@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@3x.png ... 
+2021-05-27 18:58:43 +0000  337 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_page_indicator@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@2x.png ... 
+2021-05-27 18:58:43 +0000  2113 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_rotate@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@2x.png ... 
+2021-05-27 18:58:43 +0000  1301 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@2x.png ... 
+2021-05-27 18:58:43 +0000  1301 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@2x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_permission_view_camera@2x.png ... 
+2021-05-27 18:58:43 +0000  896 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_permission_view_camera@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@3x.png ... 
+2021-05-27 18:58:43 +0000  818 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_auto@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@3x.png ... 
+2021-05-27 18:58:43 +0000  818 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_off@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@2x.png ... 
+2021-05-27 18:58:43 +0000  3467 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@2x.png ... 
+2021-05-27 18:58:43 +0000  364 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@2x.png ... 
+2021-05-27 18:58:43 +0000  1703 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@3x.png ... 
+2021-05-27 18:58:43 +0000  991 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_flash_on@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@3x.png ... 
+2021-05-27 18:58:43 +0000  560 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_title_arrow@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_video_cell_camera@2x.png ... 
+2021-05-27 18:58:43 +0000  275 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_video_cell_camera@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@3x.png ... 
+2021-05-27 18:58:43 +0000  3138 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_camera_focus@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_close@3x.png ... 
+2021-05-27 18:58:43 +0000  461 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_close@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@2x.png ... 
+2021-05-27 18:58:43 +0000  6105 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@3x.png ... 
+2021-05-27 18:58:43 +0000  9318 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_empty_view_image@3x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_placeholder@2x.png ... 
+2021-05-27 18:58:43 +0000  2735 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_placeholder@2x.png
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_close@2x.png ... 
+2021-05-27 18:58:43 +0000  406 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Gallery.bundle/gallery_close@2x.png
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  781 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Gallery.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets ... 
+2021-05-27 18:58:43 +0000  558448 bytes for ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/FittedSheets
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  791 bytes for ./Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources ... 
+2021-05-27 18:58:43 +0000  1798 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire ... 
+2021-05-27 18:58:43 +0000  1300320 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Alamofire
+copying file ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Info.plist ... 
+2021-05-27 18:58:43 +0000  737 bytes for ./Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework/Info.plist
+copying file ./Payload/LaowaiQuestions.app/UserTableViewCell.nib ... 
+4223 bytes for ./Payload/LaowaiQuestions.app/UserTableViewCell.nib
+copying file ./Payload/LaowaiQuestions.app/embedded.mobileprovision ... 
+10282 bytes for ./Payload/LaowaiQuestions.app/embedded.mobileprovision
+copying file ./Payload/LaowaiQuestions.app/SingleChatWithCell.nib ... 
+2021-05-27 18:58:43 +0000  5476 bytes for ./Payload/LaowaiQuestions.app/SingleChatWithCell.nib
+copying file ./Payload/LaowaiQuestions.app/Info.plist ... 
+2021-05-27 18:58:43 +0000  2397 bytes for ./Payload/LaowaiQuestions.app/Info.plist
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/More.storyboardc/MorePostsOptionsVC.nib ... 
+2021-05-27 18:58:43 +0000  1035 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/MorePostsOptionsVC.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/bBV-Nn-66c-view-4iy-HU-IJa.nib ... 
+2021-05-27 18:58:43 +0000  11052 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/bBV-Nn-66c-view-4iy-HU-IJa.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/4mf-8E-bYb-view-yKW-Qd-Tj7.nib ... 
+2021-05-27 18:58:43 +0000  4305 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/4mf-8E-bYb-view-yKW-Qd-Tj7.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/ChouseCategoryVC.nib ... 
+2021-05-27 18:58:43 +0000  1109 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/ChouseCategoryVC.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/KQ9-0c-H9M-view-5zi-cW-12s.nib ... 
+2021-05-27 18:58:43 +0000  4297 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/KQ9-0c-H9M-view-5zi-cW-12s.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/MorePostsUserVc.nib ... 
+2021-05-27 18:58:43 +0000  1107 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/MorePostsUserVc.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/MoreCommentOptionsVC.nib ... 
+2021-05-27 18:58:43 +0000  1039 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/MoreCommentOptionsVC.nib
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/Info.plist ... 
+2021-05-27 18:58:43 +0000  293 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/Info.plist
+copying file ./Payload/LaowaiQuestions.app/More.storyboardc/E0l-Fc-vLf-view-bBM-w6-3Ks.nib ... 
+2021-05-27 18:58:43 +0000  2834 bytes for ./Payload/LaowaiQuestions.app/More.storyboardc/E0l-Fc-vLf-view-bBM-w6-3Ks.nib
+2021-05-27 18:58:43 +0000  copying file ./Payload/LaowaiQuestions.app/PkgInfo ... 
+8 bytes for ./Payload/LaowaiQuestions.app/PkgInfo
+2021-05-27 18:58:43 +0000  /usr/bin/ditto exited with 0
+2021-05-27 18:58:43 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-05-27 18:58:43 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-05-27 18:58:43 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb406bd40:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Alamofire.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4c219b0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Toast_Swift.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcf83f1a4a0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/MOLH.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcf83f5dff0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ImageSlideshow.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4c8b860:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/ZKProgressHUD.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4c2a840:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Kingfisher.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcf83f5a800:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/JGProgressHUD.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4c09d50:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/IQKeyboardManager.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb53e15a0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/Gallery.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4067540:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/FittedSheets.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb4c2b6b0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/SwiftyJSON.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcf83f764c0:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app/Frameworks/DropDown.framework'>
+2021-05-27 18:58:43 +0000  IDEDistributionItem init <DVTFilePath:0x7fcfb1fa2b90:'/var/folders/xg/zd36wm7j57d1smnt5stwd_mm0000gn/T/XcodeDistPipeline.~~~ZcFzWT/Root/Payload/LaowaiQuestions.app'>
+2021-05-27 18:58:43 +0000  Processing step: IDEDistributionCreateManifestStep

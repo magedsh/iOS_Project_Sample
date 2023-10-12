@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="spash_logo" translatesAutoresizingMaskIntoConstraints="NO" id="eRq-kl-oUJ">
+                                <rect key="frame" x="144" y="327" width="126" height="242"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="126" id="Mjq-cE-oBc"/>
+                                    <constraint firstAttribute="height" constant="242" id="W58-bp-7aa"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lxQ-TH-qTy">
+                                <rect key="frame" x="168.5" y="846" width="77.5" height="16"/>
+                                <string key="text">Maro Global
+</string>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="13"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="from" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Ao-Gh-c1D">
+                                <rect key="frame" x="194" y="826.5" width="26.5" height="14.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="0.61568627450000002" green="0.61568627450000002" blue="0.61568627450000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="lxQ-TH-qTy" firstAttribute="top" secondItem="5Ao-Gh-c1D" secondAttribute="bottom" constant="5" id="86p-rt-qD6"/>
+                            <constraint firstItem="eRq-kl-oUJ" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="Mrq-6M-c8R"/>
+                            <constraint firstItem="eRq-kl-oUJ" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="SEK-Q0-kTB"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="lxQ-TH-qTy" secondAttribute="bottom" id="SMb-VK-8nW"/>
+                            <constraint firstItem="lxQ-TH-qTy" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="SVb-qs-KE0"/>
+                            <constraint firstItem="5Ao-Gh-c1D" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="pZ7-wk-drs"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="spash_logo" width="126.5" height="242"/>
+    </resources>
+</document>

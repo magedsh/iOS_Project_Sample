@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  LaowaiQuestions
+
+  Created by Macbook on 4/10/21.
+  Copyright © 2021 Maged Shaheen. All rights reserved.
+*/
+"lang" = "ar";
+
+"Error" = "خطا" ;
+
+"UnFollow" = "الغاء المتابعة";
+
+"Follow" = "متابعة";
+
+"All Users" = "الجميع";
+
+"Abroad" = "الخارج";
+
+
+"China" = "الصين";
+
+" ...read more" = "،،، اقرا المزيد";
+
+"Internet Connection Failed" = "فشل الاتصال بالانترنت ";
+
+"No Internet Connection!" = "لا يوجد اتصال بالانترنت";
+
+"Supply" = "للبيع";
+
+"Demand" =  "مطلوب";
+
+"Translate" = "ترجمه";
+
+"make post on Loawai Panda with text:" = "قام بعمل  منشور علي تطبيق لاواي باندا ";
+
+"Comment" = "التعليقات";
+
+"Follow up" = "متابعه";
+
+"Share" = "مشاركه";
+
+"Social" = "اجتماعي";
+
+"Messeges" = "الرسائل";
+
+"Me" = "البروفايل";
+
+
+"Unsave" = "الغاء الحفظ";
+
+"Save" =  "حفظ";
+
+"Messege" = "مراسله";
+"Done" = "تم";
+
+"Ask" = "اسئلة";
+
+"Service" = "خدمة";
+
+"General" = "عام";
+
+"All Posts" = "جميع المنشورات";
+
+"In China" ="في الصين";
+
+"All China" = "جميع الصين";
+
+"Select State" = "اختر ولايه";
+
+"Sharing Information" = "مشاركة المعلومات";
+
+"Useful" = "مفيد";
+
+"User Id saved to your clipboard" = "تم نسخ ال id الخاص بك";
+
+"No posts for now" = "لا يوجد منشورات الان";
+
+"Sorry , This account is private!" = "عفوا ، هذا الحساب خاص";
+
+"Back" = "رجوع";
+"Save" = "حفظ";
+
+"Search post , user , user id..." = "ابحث عن منشورات , اشخاص , user id ";
+
+"Changing language!" = "تغيير اللغه !";
+"this app will restart to change application language" = "هذا التطبيق سوف يقوم باعاده التشغيل لتغيير اللغه";
+"Ok" = "موافق";
+"No" = "لا";
+
+"Change Language" = "تغيير اللغه";
+
+"   Terms and Condetions   " = "   الشروط والاحكام   " ;
+"   Contact Us   " = "   اتصل بنا   ";
+
+"Topics I Follow / Saved" = "منشورات اتابعها/ المحفوظات";
+
+"Following" = "المتابعات";
+"Privacy Setting" = "اعدادات الخصوصيه";
+
+"Setting" =  "الاعدادات";
+
+"About laowai panda" = "من نحن";
+
+"logout" = "تسجيل خروج";
+
+"My Topics" = "منشوراتي";
+
+"Profile" = "الصفحه الشخصيه";
+
+"Next" = "التالي";
+
+"Title" = "العنوان";
+
+"write somthing.." = "اكتب شيئا ما ...";
+
+"Allowed 9 Photos" = "٩ صور مسموح بها";
+
+"Share for" = "شارك لأجل";
+
+"Select City" = "اختيار المدينه";
+
+"Post" = "ارسال";
+
+"Post text saved to your clipboard" = "تم نسخ نص المنشور";
+
+"Copy" = "نسخ";
+
+"   Feedback   " = "   راسلنا   ";
+"UnFollow question" = "UnFollow question";
+"Follow question" = "Follow question";
