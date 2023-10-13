@@ -95,18 +95,19 @@ class FollowedUpPostsVC: UIViewController {
                 
                DispatchQueue.main.async { [weak self] in
                      
+                   guard let self = self else {return}
 
                       if (response != nil){
                           
-                          let page = self?.page ?? 1
-                          self?.page = page + 1
+                          let page = self.page ?? 1
+                          self.page = page + 1
                           
                           if response?.data?.nextPageURL == nil {
                               
-                              self?.isNextPageAvailable = false
+                              self.isNextPageAvailable = false
                               
                           }else {
-                              self?.isNextPageAvailable = true
+                              self.isNextPageAvailable = true
                               
                           }
 
@@ -116,7 +117,7 @@ class FollowedUpPostsVC: UIViewController {
                           for (index , post) in savedPosts!.data!.enumerated() {
                       
                               if (post.post != nil){
-                                  self?.postsList.append(post.post! )
+                                  self.postsList.append(post.post! )
                               }
                               
                           }
@@ -124,26 +125,26 @@ class FollowedUpPostsVC: UIViewController {
                         
                         
                         if self?.postsList.count == 0{
-                            self?.emptylb.isHidden = false
+                            self.emptylb.isHidden = false
                         }else {
-                            self?.emptylb.isHidden = true
+                            self.emptylb.isHidden = true
                         }
-                          self?.tableView.reloadData()
+                          self.tableView.reloadData()
 
                           
                           DispatchQueue.main.asyncAfter(deadline: .now() +  2.0) {
-                              self?.tableView.reloadData()
-                              self?.tableView.isHidden = false
-                              self?.stopAnimation()
-                              self?.indicator.isHidden = true
+                              self.tableView.reloadData()
+                              self.tableView.isHidden = false
+                              self.stopAnimation()
+                              self.indicator.isHidden = true
                               
-                              self?.spinner.stopAnimating()
-                              self?.pulltoRefresh.endRefreshing()
+                              self.spinner.stopAnimating()
+                              self.pulltoRefresh.endRefreshing()
 
                           }
 
                       }else{
-                          self?.view.makeToast("Something gone wrong")
+                          self.view.makeToast("Something gone wrong")
 
                       }
                 }
