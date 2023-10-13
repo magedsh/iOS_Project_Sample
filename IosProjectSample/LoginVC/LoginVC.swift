@@ -18,6 +18,7 @@ enum LoginType:String {
     case normal = "normal"
     case apple = "apple"
     case wechat = "wechat"
+    
 }
 
 extension UIView {
@@ -216,31 +217,11 @@ class LoginVC: UIViewController , WXApiDelegate  {
                 UserData.setUUID(userId: uuid)
                 let uselful =  response?.data?.userData?.replys_useful_count ?? 0
                 
-                UserData.setUseful(uselful: uselful)
                 UserData.setUSER_EMAIL(email: response?.data?.userData?.email ?? "")
-                UserData.setUserphone(phone: response?.data?.userData?.phone ?? "")
                 UserData.setapi_token(access_token: response?.data?.token ?? "")
-                UserData.setCountryCode(country_code:  response?.data?.userData?.country_code ?? "")
 
                 // store
-                UserData.isUserHasStore(user_hass_store: response?.data?.userData?.store ?? false)
                 
-                var storeId = response?.data?.userData?.store_id ?? 0
-                UserData.setUserStoreId(user_storeId: storeId)
-                
-                if (storeId != 0 ){
-                    UserData.isUserHasStore(user_hass_store: true)
-                }else {
-                    UserData.isUserHasStore(user_hass_store: false)
-                }
-                // store activation state
-                if ((response?.data?.userData?.store == nil || !(response?.data?.userData?.store ?? false)) && storeId != 0 ){
-                    UserData.isStoreActive(isActive: false)
-                }else if (response?.data?.userData?.store ?? false ){
-                    UserData.isStoreActive(isActive: true)
-                }else if (!(response?.data?.userData?.store ?? false )){
-                    UserData.isStoreActive(isActive: false)
-                }
             }
         }
     }
