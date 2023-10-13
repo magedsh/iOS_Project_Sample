@@ -95,7 +95,6 @@ class SplashScreenViewController: UIViewController {
     }
     
     deinit {
-        // ViewController going away.  Kill the timer.
         myTimer?.invalidate()
     }
     
